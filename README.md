@@ -1,5 +1,7 @@
 ## Rico Url_upload bot 
 ---
+```git clone https://github.com/LuciferM1/Ricourluploader 
+cd Ricourluploader```
 
 ```sh
 virtualenv -p python3 VENV
