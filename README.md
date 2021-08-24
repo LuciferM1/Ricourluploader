@@ -7,13 +7,16 @@
 
 ```
 sudo apt install git
+y
 git clone https://github.com/LuciferM1/Ricourluploader
 cd Ricourluploader
 sudo apt install virtualenv
+y
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
 pip install -r requirements.txt
 python bot.py
+
 
 ```
 
