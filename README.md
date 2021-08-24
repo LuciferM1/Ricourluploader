@@ -1,9 +1,11 @@
 ## Rico Url_upload bot 
 ---
-```git clone https://github.com/LuciferM1/Ricourluploader 
-cd Ricourluploader```
+ 
 
-```sh
+
+
+
+```cd Ricourluploader
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
 pip install -r requirements.txt
